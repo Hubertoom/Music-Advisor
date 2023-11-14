@@ -1,5 +1,5 @@
 
-#  Sporify Music Advisor
+#  Spotify Music Advisor
 
 ## About the project
 The modern world spoils us with a wide variety of music: pop-lovers, rockers, rappers <br/> 
